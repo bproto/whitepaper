@@ -1,0 +1,4 @@
+# Global identiﬁcation
+
+Let’s say that a user obtains a Butterfly domain with a fully qualified name of “john.smith.id”. This FQN becomes their global identify and can be used through the Butterfly browser extension to access their website, their Twitter account, their LinkedIn profile, etc. Their FQN can be used by others to securely message them in a way that cannot be censored. The user can record wallet addresses in the domain for different cryptocurrencies allowing digital assets to be sent to a human-readable FQN instead of an incoherent address. Rendering FQN as a global identity means that Butterfly users will be able to complete all of the aforementioned actions in a completely decentralized manner. Besides, the global identification is exclusively maintained and employed by the owner whose identification and personal data stay beyond the reach of any authority.
+
